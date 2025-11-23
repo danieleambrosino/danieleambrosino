@@ -8,17 +8,11 @@ I'm a CTO & full-stack engineer, currently co-founding [Citybeat](https://www.ci
 
 ## Technologies
 ### I use daily
-![Technologies I use daily](https://go-skill-icons.vercel.app/api/icons?i=python,django)
+![Technologies I use daily](https://go-skill-icons.vercel.app/api/icons?i=python,django,typescript,vue,vite,postgresql,docker,aws)
 
-![Technologies I use daily](https://go-skill-icons.vercel.app/api/icons?i=typescript,vue,vite)
-
-![Technologies I use daily](https://go-skill-icons.vercel.app/api/icons?i=postgresql,docker,aws)
 ### Less frequently
-![Technologies I use less frequently](https://go-skill-icons.vercel.app/api/icons?i=php,symfony,laravel)
+![Technologies I use less frequently](https://go-skill-icons.vercel.app/api/icons?i=php,symfony,laravel,java,spring,mysql,redis,rabbitmq)
 
-![Technologies I use less frequently](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
-
-![Technologies I use less frequently](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,rabbitmq)
 ### Personal kinks
 ![Personal kinks](https://go-skill-icons.vercel.app/api/icons?i=sqlite,svelte,pocketbase,arch)
 
