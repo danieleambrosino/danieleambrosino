@@ -14,4 +14,4 @@ I'm a CTO & full-stack engineer, currently co-founding [Citybeat](https://www.ci
 ![Technologies I use less frequently](https://go-skill-icons.vercel.app/api/icons?i=php,symfony,laravel,java,spring,mysql,redis,rabbitmq)
 
 ### Personal kinks
-![Personal kinks](https://go-skill-icons.vercel.app/api/icons?i=sqlite,svelte,pocketbase,arch)
+![Personal kinks](https://go-skill-icons.vercel.app/api/icons?i=svelte,pocketbase,sqlite,arch)
