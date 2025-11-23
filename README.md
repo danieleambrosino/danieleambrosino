@@ -15,7 +15,3 @@ I'm a CTO & full-stack engineer, currently co-founding [Citybeat](https://www.ci
 
 ### Personal kinks
 ![Personal kinks](https://go-skill-icons.vercel.app/api/icons?i=sqlite,svelte,pocketbase,arch)
-
----
-
-📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/daniele-ambrosino) • [mail@danieleambrosino.it](mailto:mail@danieleambrosino.it)
