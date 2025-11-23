@@ -1,3 +1,4 @@
+# Ué! 😎
 I'm a CTO & full-stack engineer, currently co-founding [Citybeat](https://www.citybeat.app) and working as Senior Software Engineer at [Jet HR](https://jethr.com). I enjoy shaping complex product challenges into pragmatic, scalable solutions that people like to use (and actually use).
 
 ## Me in a nutshell
